@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+npm install bootstrap jquery poppers.js --force
 ```
 
 ### Compiles and hot-reloads for development
